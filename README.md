@@ -1,2 +1,2 @@
 # SQLZoo
-This is the work I have done for SQLZoo
+This is the work I have done on SQLZoo
